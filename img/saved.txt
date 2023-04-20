@@ -1,0 +1,9 @@
+:/img/rook.png,:/img/knight.png,:/img/bishop.png,:/img/queen.png,:/img/king.png,:/img/bishop.png,:/img/knight.png,:/img/rook.png
+:/img/pawn.png,:/img/pawn.png,:/img/pawn.png,,:/img/pawn.png,:/img/pawn.png,:/img/pawn.png,:/img/pawn.png
+,,,,,,,
+,,,,:/img/pawn_white.png,,,
+,,,:/img/pawn.png,,,,
+,,,,,,,
+:/img/pawn_white.png,:/img/pawn_white.png,:/img/pawn_white.png,:/img/pawn_white.png,,:/img/pawn_white.png,:/img/pawn_white.png,:/img/pawn_white.png
+:/img/rook_white.png,:/img/knight_white.png,:/img/bishop_white.png,:/img/queen_white.png,:/img/king_white.png,:/img/bishop_white.png,:/img/knight_white.png,:/img/rook_white.png
+black
